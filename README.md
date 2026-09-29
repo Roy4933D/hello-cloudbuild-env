@@ -14,7 +14,7 @@ container image from commited code, stores the image in Google Artifact
 Registry, updates a Kubernetes manifest in a Git repository and triggers a
 deployment to Kubernetes Engine using that manifest.
 
-This tutorial uses two Git repositories: one for the application —the _app_
+This tutorial uses two Git repositories: one for the application —the _app_wsxwlsxlw
 repository— and one for storing the deployment manifests —the _env_ repository.
 When a change is pushed to the application repository, tests are run, a
 container image is built and pushed to Artifact Registry. Once the image is
